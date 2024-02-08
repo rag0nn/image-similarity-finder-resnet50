@@ -4,7 +4,7 @@
 Verilen görseller arasındaki benzerliği matematiksel olarak hesaplayabilme amacıyla ilerletiilmiştir.
 
 <h2>YÖNTEM</h2>
-Resnet5o modelini görselin özelliklerini çıkarmak için kullanıyoruz.
+Resnet50 modelini görselin özelliklerini çıkarmak için kullanıyoruz.
 iki görsel arasındaki benzerliği bulmak için Öklid mesafesi kullanıyoruz.
 
 <h2>KURGU</h2>
