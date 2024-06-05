@@ -9,6 +9,3 @@ iki görsel arasındaki benzerliği bulmak için Öklid mesafesi kullanıyoruz.
 
 <h2>KURGU</h2>
 Veri Tabanında, gelen görsellerin çıkarım modelinden geçirilerek (resnet veya başka) özellik vektörlerini ve  görselleri tutarak yeni gelen ve tahmin edilmesi istenen görsel ile benzerliğe dayalı bir çıkarım yapılalimesi sağlanabilir
-
-<h3>NOT</h3>
-Bu kodu python'u hatırlamak için yazdım. O yüzden içerisinde farklı python yerleşik kullanımları içeriyor.
